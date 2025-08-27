@@ -1,0 +1,14 @@
+Python
+Java
+C++
+Machine Learning
+Deep Learning
+SQL
+HTML
+CSS
+JavaScript
+Flask
+Django
+Communication
+Teamwork
+Problem Solving
